@@ -1,7 +1,5 @@
 # Proposed Solution
 
-<img src="https://img.shields.io/badge/Status-Work%20In%20Progress-blue.svg"/>
-
 **Session object**
 ```js
 {
