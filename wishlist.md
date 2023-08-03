@@ -1,9 +1,10 @@
-- new look ijoin system cart
-- [handle authentication and authorization (all page)](https://github.com/rub1cc/byu-fe-wiki/blob/main/proposals/authentication.md)
-- irenew system cart
-- migrate to css modules
-- redux revamp
-- http api call (error handling)
-- css animation
-- notion feature knowledge vault
-- import fix
+- New look ijoin system cart
+- Handle authentication and authorization (all page)
+  - [Propsal 1](https://github.com/rub1cc/byu-fe-wiki/blob/main/proposals/authentication.md)
+- Irenew system cart
+- Migrate to css modules
+- Redux revamp
+- Http api call (error handling)
+- CSS animation
+- Notion feature knowledge vault
+- Import fix
