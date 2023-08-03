@@ -1,0 +1,9 @@
+- new look ijoin system cart
+- handle authentication and authorization (all page)
+- irenew system cart
+- migrate to css modules
+- redux revamp
+- http api call (error handling)
+- css animation
+- notion feature knowledge vault
+- import fix
