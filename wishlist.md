@@ -1,5 +1,5 @@
 - new look ijoin system cart
-- handle authentication and authorization (all page)
+- [handle authentication and authorization (all page)](https://github.com/rub1cc/byu-fe-wiki/blob/main/proposals/authentication.md)
 - irenew system cart
 - migrate to css modules
 - redux revamp
