@@ -2,6 +2,10 @@
 
 <img src="https://img.shields.io/badge/Status-Work%20In%20Progress-blue.svg"/>
 
+## File
+
+I proposed to create a file `@byu/auth.js` or `@byu/auth/index.js`. So we place everything related to the `authentication` feature here, only one file to make it easier to manage.
+
 **Session object**
 ```js
 {
